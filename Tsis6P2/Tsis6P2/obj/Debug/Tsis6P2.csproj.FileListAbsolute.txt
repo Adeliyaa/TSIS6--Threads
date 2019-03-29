@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\bin\Debug\Tsis6P2.exe.config
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\bin\Debug\Tsis6P2.exe
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\bin\Debug\Tsis6P2.pdb
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\obj\Debug\Tsis6P2.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\obj\Debug\Tsis6P2.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\obj\Debug\Tsis6P2.exe
+C:\Users\delya\source\repos\Tsis6P2\Tsis6P2\obj\Debug\Tsis6P2.pdb

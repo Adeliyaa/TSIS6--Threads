@@ -1,0 +1,7 @@
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\bin\Debug\Tsis6P2Threads.exe.config
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\bin\Debug\Tsis6P2Threads.exe
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\bin\Debug\Tsis6P2Threads.pdb
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\obj\Debug\Tsis6P2Threads.csprojAssemblyReference.cache
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\obj\Debug\Tsis6P2Threads.csproj.CoreCompileInputs.cache
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\obj\Debug\Tsis6P2Threads.exe
+C:\Users\delya\source\repos\Tsis6P2Threads\Tsis6P2Threads\obj\Debug\Tsis6P2Threads.pdb
